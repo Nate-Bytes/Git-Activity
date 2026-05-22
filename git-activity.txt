@@ -1,1 +1,2 @@
-"This is my first Git activity." this is my branch
+"This is my first Git activity." this is my branch. change
+directly in the git-activity.txt file. Save the changes.
